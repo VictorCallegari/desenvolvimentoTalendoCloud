@@ -41,10 +41,7 @@ Caso seja inserido um número de operação que não exista, o resultado deverá
 
 Você pode utilizar a sua IDE de preferência, clonar ou baixar para testar os códigos.
 
-## Licença
-
-Indique a licença sob a qual o seu projeto está disponível.
 
 ## Contato
 
-Forneça informações de contato para que outras pessoas possam se comunicar com você.
+(https://www.linkedin.com/in/victorcallegarir/)https://www.linkedin.com/in/victorcallegarir/

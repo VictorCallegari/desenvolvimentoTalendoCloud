@@ -27,15 +27,21 @@ Escreva mais dois códigos que resolvam o mesmo problema, mas dessa vez usando o
 
 Como desafio, imprima eles em ordem decrescente (20, 19, 18...)
 
+- **DESENVOLVIMENTO 10: Calculadora**
+Faça uma função calculadora de dois números com três parâmetros: os dois primeiros serão os números da operação e o terceiro será a entrada que definirá a operação a ser executada. Considera a seguinte definição:
+1. Soma
+2. Subtração
+3. Multiplicação
+4. Divisão
+
+Caso seja inserido um número de operação que não exista, o resultado deverá ser 0.
+
 
 ## Como Usar
 
 Você pode utilizar a sua IDE de preferência, clonar ou baixar para testar os códigos.
 
-## Licença
-
-Indique a licença sob a qual o seu projeto está disponível.
 
 ## Contato
 
-Forneça informações de contato para que outras pessoas possam se comunicar com você.
+(https://www.linkedin.com/in/victorcallegarir/)https://www.linkedin.com/in/victorcallegarir/

@@ -12,7 +12,7 @@ Nestes gráficos, você pode ver meu progresso ao longo do tempo em relação ao
 
 ### Project
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorCallegari&repo=loginSrcreen&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorCallegari&repo=desenvolvimentoTalendoCloud&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Langs
 

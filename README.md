@@ -47,7 +47,7 @@ Faça uma função calculadora que os números e as operações serão feitas pe
 
 Digite o número para a operação correspondente e caso o usuário introduza qualquer outro, o sistema deve mostrar a mensagem “Essa opção não existe” e voltar ao menu de opções.
 
-- **DESENVOLVIMENTO 11: CALCULADORA INFINITA**
+- **DESENVOLVIMENTO 12: CALCULO DE IDADE**
 Desenvolva um programa que recebe do usuário nome completo e ano de nascimento que seja entre 1922 e 2021.
 A partir dessas informações, o sistema mostrará o nome do usuário e a idade que completou, ou completará, no ano atual (2022).
 

@@ -1,0 +1,45 @@
+flexboxfroggy game:
+
+Nivel 1
+#pond {
+  display: flex;
+justify-content: flex-end
+}
+
+Nivel 2
+#pond {
+  display: flex;
+justify-content: center
+}
+
+Nivel 3
+#pond {
+  display: flex;
+justify-content: space-around;
+}
+
+Nivel 4
+#pond {
+  display: flex;
+justify-content: space-between;
+}
+
+Nivel 5
+#pond {
+  display: flex;
+align-items: flex-end;
+}
+
+Nivel 6
+#pond {
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+
+Nivel 7
+#pond {
+  display: flex;
+justify-content: space-around;
+align-items: flex-end;
+}
